@@ -5,6 +5,7 @@
 - Download ChromeDriver from (https://chromedriver.chromium.org/downloads)
 - Change path of CHROMEDRIVER_PATH to your path 
 - Requirement ```pip install selenium==4.2.0 ```
+- Requirement for Linux ```pip install PyVirtualDisplay ```
 - Python >=3.8
 
 ## Run
